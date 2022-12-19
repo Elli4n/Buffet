@@ -1,0 +1,13 @@
+.ContainerHeader {
+    background-color: orange;
+    color: black;
+    font-family: 'Passions Conflict', cursive;
+    font-size: 15vw;
+
+    border: black double;
+    border-radius: 8px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

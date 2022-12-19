@@ -1,0 +1,24 @@
+.FonteForm {
+    background-color: orange;
+    border: double black;
+    font-size: 30px;
+    padding: 2px;
+    font-family: 'Lobster', cursive;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+}
+.FonteForm input{
+    font-size: 25px;
+    border-style: hidden;
+    background-color: #FAFAD2;
+    color: black;
+}
+.FonteForm button {
+    width: 100px;
+    height: 50px;
+    align-self: center;
+    margin: 30px;
+   
+}

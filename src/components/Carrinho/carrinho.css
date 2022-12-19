@@ -1,0 +1,44 @@
+.carrinho {
+        background-color: orange;
+        border: double black;
+        font-size: 30px;
+        padding: 30px;
+        font-family: 'Lobster', cursive;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 50px;
+        
+}
+.Table {
+    border: double black;
+    row-gap: 10px;
+}
+.Row {
+    border-bottom: solid black 2px;
+    margin: 10px;
+}
+.Button {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.Cell1 {
+    border-right: solid black 2px; align-items: center; justify-content: center;
+}
+.Cell2 {
+    border-left: solid black 2px; align-items: center;justify-content: center;
+}
+.Cell3 {
+    border-left: solid black 2px; align-items: center;justify-content: center;
+}
+.Cell4 {
+    border-left: solid black 2px; align-items: center;justify-content: center;
+}
+.Cell5 {
+    border-left: solid black 2px;align-items: center;justify-content: center;
+}
+.Cell6 {
+    border-left: solid black 2px; align-items: center; justify-content: center;
+}

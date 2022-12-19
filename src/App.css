@@ -1,0 +1,21 @@
+.Contaienr {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #555D50;
+}
+
+.Title {
+  font-size: 3.5rem;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  color: black;
+  margin: 2rem;
+}
+.Apresentacao {
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  color: black;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "imgUrl": "/Baiaodedois.jpeg",
+    "title": "Baião de dois",
+    "description": "Prato típico da região Nordeste e partes da região Norte do Brasil, é composto por arroz branco e feijão-de-corda refogados com carne seca, lombo de porco, bacon, alho, cebola roxa e especiarias em manteiga de garrafa e finalizado com queijo coalho frito."
+  },
+  {
+    "id": "2",
+    "imgUrl": "/bolinho.jpeg",
+    "title": "Bolinho de Feijoada",
+    "description": "O Famoso bolinho de feijoada criado pela chef Katia Barbosa e património cultural do Rio de Janeiro também faz parte do nosso menu, nossa variação do prato é composto por bolinhos fritos com base de uma feijoada completa ( feita de feijão preto, orelha de porco, carne-seca, lombo de porco, paio, refogado de cebola e alho e com um toque especial de cachaça ) e recheados de couve com bacon."
+  },
+  {
+    "id": "3",
+    "imgUrl": "/trouxinha.jpeg",
+    "title": "Trouxinha de Carne de Sol",
+    "description": "Mais uma especialidade da casa, as Trouxinhas são extremamente saborosas e leves. Com sua base feita de massa filo, o recheio e composto de carne de sol cozida ao leite com pedaços de abacaxi, após o cozimento é desfiada e enriquecida com um refogado de cebola na manteiga de garrafa e finalizada com creme de leite e coentro."
+  },
+  {
+    "id": "4",
+    "imgUrl": "/camarao.jpeg",
+    "title": "Camarão na Massa de Banana",
+    "description": "O nosso prato queridinho, especialidade da casa feito com camarões temperados com sal, limão e pimenta fritos em massa com base de banana e acompanhados do nosso molho especial feito com castanhas-de-caju."
+  }
+]

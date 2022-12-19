@@ -1,0 +1,25 @@
+.Footer {
+    background-color:orange ;
+    border: double black;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 0px;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+.Footer a {
+    text-decoration: none;
+    color: black;
+}
+.Face :active{
+    color: dodgerblue;
+}
+.Instagram :active{
+    color: purple;
+}
