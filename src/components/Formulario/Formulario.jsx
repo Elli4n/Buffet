@@ -13,7 +13,9 @@ export default function Cardapio() {
   const postData = () => {
     axios.post('https://63780b135c477765122b6f91.mockapi.io/CarrinhoPJT',{Name,Contato,Evento,Data,Pessoas,Bebidas}
     )
-
+  }
+  function refreshPage() {
+    window.location.reload(false);
   }
 
 
@@ -52,9 +54,10 @@ return (
       </Form.Field>
 </Form.Group>
 <br />
-
-<Button type='submit' onClick={postData}>Enviar</Button>
-
+<div>
+<Button className='button' type='submit' onClick={postData}>Enviar</Button>
+<Button className='button' type='refresh' onClick={refreshPage}>Recarregar</Button>
+</div>
 </Form>
 </div>
 )
